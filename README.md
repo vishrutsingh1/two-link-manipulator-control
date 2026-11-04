@@ -6,7 +6,7 @@
 |:---:|:---:|
 | ![Joint 1 tracking](figures/fully_actuated/no_disturbance/theta_1_reference_tracking.png) | ![Joint 2 stabilisation](figures/underactuated/equilibrium_start/theta_2_tracking.png) |
 
-MSc Robotics coursework, *Advanced Control and Dynamics* (UFME7F-15-M), Bristol Robotics Laboratory. Graded at distinction level (70/100). Full write-up: [report (PDF)](report/two_link_manipulator_control_report.pdf).
+
 
 ---
 
